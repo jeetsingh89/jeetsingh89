@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeet Singh
-- 👀 I’m interested in AI, ML and Deep Learning
+- 👀 I’m interested in AI, ML,Deep Learning, Software Development and Data Structures and Algorithms.
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 - 📫 How to reach me ...
 - email - jeetmia1@gmail.com
